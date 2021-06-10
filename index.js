@@ -53,4 +53,4 @@ fs.readdir('./testfolder',(err,files)=>{
 
 });
 
-app.listen(3002);
+app.listen(process.env.PORT || 3001)
