@@ -53,4 +53,4 @@ fs.readdir('./testfolder',(err,files)=>{
 
 });
 
-app.listen(port,()=>console.log("your running with the port is: "+port));
+app.listen(process.env.PORT || 3000)
