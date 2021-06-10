@@ -1,0 +1,33 @@
+{
+    "name":"khasim",
+    "class":"B22",
+    "section":"sec-A",
+    "student_favourite_subject" : "database",
+    "student_skills":[
+        "java",
+        "mysql",
+        "javascript"
+    ],
+    "student_favourite_teacher":"cinderella",
+    "payDetails":{
+        "date":"21-09-21",
+        "amount":"5000"
+    }
+},
+{
+    "name":"sharif",
+    "class":"B22",
+    "section":"sec-A",
+    "student_favourite_subject" : "python",
+    "student_skills":[
+        "java",
+        "mysql",
+        "javascript",
+        "mongoDB"
+    ],
+    "student_favourite_teacher":"cinderella",
+    "payDetails":{
+        "date":"21-09-21",
+        "amount":"5000"
+    }
+}
